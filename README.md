@@ -2,9 +2,10 @@
 
 Grupo:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://toshikurauchi.github.io/tecweb-2021-1-desafio-css/)
+- Antonio Awad Roxo da Fonseca
+- Fernando Giuseppe Avila Beltramo
+- João Pedro Farias de Araujo
+- Link do GitHub Pages: https://jpfa1406.github.io/
 
 ## Desafio CSS
 
