@@ -73,6 +73,7 @@ div.appbar {
 
 .form-card-title{
   border: 0px;
+  font-size: 17px;
 }
 
 .autoresize{
@@ -105,6 +106,11 @@ h3{
   padding-bottom: 14px;
   font-size: large;
 }
+
+/* p{
+  margin: auto;
+  width: auto;
+} */
 
 .card-content{
   color: #4c4c4c;
